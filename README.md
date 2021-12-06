@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ThomcodeFr
-- 👀 I’m interested in Music, Gaming and Learning new skills
+- 🇫🇷 I'm french
+- 👀 I’m interested in Music, Gaming and learning new skills
 - 🌱 I’m currently learning HTML / CSS 3 / PHP
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate for an intership
 - 📫 How to reach me : ...
 
 <!---
