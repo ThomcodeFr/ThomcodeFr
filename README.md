@@ -5,4 +5,4 @@ During my free time, I love to learn about code. So, it was therefore natural to
 
 I am french 🇫🇷 developper (in professional retraining), student at Pop School (France) in Web and Mobile Development 🌱.
 
-💞️ : I’m currently learning HTML / CSS 3 / PHP / Boostrap / Git / Linux 
+💞️ : I’m currently learning HTML / CSS 3 / JavaScript / PHP / Boostrap / Git / Linux 
