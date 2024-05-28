@@ -1,3 +1,3 @@
 <strong>Hi ! I’m @ThomcodeFr</strong> 👋
 
-I am a French 🇫🇷 developper (training), student for Master in Computer Science (France) 🌱. 
+I am a French 🇫🇷 developper (training), student for Master in Computer Science 🌱. 
